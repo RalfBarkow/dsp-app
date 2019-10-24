@@ -1,5 +1,5 @@
 // Include non-theme styles for core.
-@import '~@angular/material/theming';
+@import 'external/npm/node_modules/@angular/material/theming';
 @include mat-core();
 
 // Define the color palettes for the theme.
