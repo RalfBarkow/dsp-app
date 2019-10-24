@@ -29,6 +29,7 @@
     "@angular/material": "^8.2.3",
     "@angular/platform-browser": "~8.2.12",
     "@angular/platform-browser-dynamic": "~8.2.12",
+    "@angular/platform-server": "^8.2.12",
     "@angular/router": "~8.2.12",
     "@knora/action": "9.4.0",
     "@knora/authentication": "9.4.0",
